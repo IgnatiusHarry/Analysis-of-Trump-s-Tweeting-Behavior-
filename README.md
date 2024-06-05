@@ -5,7 +5,7 @@
 This project aims to analyze the tweeting patterns of former US President Donald Trump, focusing on the differences between tweets posted from an iPhone and an Android device. The analysis replicates and verifies David Robinson’s study on the subject, examining the content and timing of tweets to uncover distinct patterns.
 
 **Data**
-trump_tweets.xlsx: Contains tweets from Donald Trump between December 2015 and August 2016.
+- trump_tweets.xlsx: Contains tweets from Donald Trump between December 2015 and August 2016.
 
 Variables included in the dataset:
 

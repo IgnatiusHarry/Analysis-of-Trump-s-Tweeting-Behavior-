@@ -6,6 +6,8 @@ This project aims to analyze the tweeting patterns of former US President Donald
 
 **Data**
 - trump_tweets.xlsx: Contains tweets from Donald Trump between December 2015 and August 2016.
+![image](https://github.com/user-attachments/assets/00e81f66-a040-47c5-9283-69171733b843)
+
 
 Variables included in the dataset:
 

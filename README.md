@@ -21,11 +21,11 @@ Variables included in the dataset:
 2. Feature Extraction:
 - Created a new column hour to capture the hour of the day each tweet was posted.
 3. Data Filtering:
-- Filtered the dataset to include only tweets posted from an iPhone.
+- Filtered the dataset to include only tweets from an iPhone and Android.
 4. Data Aggregation:
 - Aggregated the iPhone tweets by hour to analyze the frequency of tweets posted at different times of the day.
 5. Data Visualization:
-- Created a line graph to visualize the hourly tweet frequency from an iPhone.
+- I created a line graph to visualize the differences between the hourly tweet frequency on an iPhone and Android.
 
 **Results**
 
@@ -39,6 +39,9 @@ Visualization:
 - The line graph provided a visual representation of tweet frequency by hour, highlighting peak tweeting times and potential behavioral insights.
 
 **Conclusion**
-![image](https://github.com/user-attachments/assets/308c3d35-519f-488a-8e9e-702cd03a589c)
+![image](https://github.com/user-attachments/assets/2ef99846-5342-4f07-bc46-e0e0ad998a8e)
 
-The analysis confirmed previous findings about differences in tweeting behavior based on the device used. The timing and frequency of tweets from an iPhone showed distinct patterns that contribute to understanding the overall communication strategy employed during Trump's presidency. This project demonstrates the application of data analysis techniques in uncovering behavioral insights from social media data.
+
+Analyzing tweeting patterns in the merged diagram aligns with the project's objective to examine former US President Donald Trump's tweet timings across different devices. The data reveals that tweets from Android devices peak in the late morning, specifically around 11:00 AM, while tweets from iPhone devices show more consistent activity throughout the day, with a significant rise in the evening, peaking around 8:00 PM.
+
+This distinction may suggest that the devices were used for different types of communication or by different individuals within Trump's team. For instance, tweets from the Android device might reflect more personal or direct engagement from Trump himself, possibly during specific times of the day, while iPhone tweets could be managed by his team, particularly during the evening hours. This pattern aligns with findings from David Robinson’s study, highlighting the strategic use of different devices for varying messaging purposes and times, providing deeper insights into Trump's digital communication strategy.

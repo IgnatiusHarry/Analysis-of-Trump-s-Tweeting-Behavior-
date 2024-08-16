@@ -39,5 +39,6 @@ Visualization:
 - The line graph provided a visual representation of tweet frequency by hour, highlighting peak tweeting times and potential behavioral insights.
 
 **Conclusion**
+![image](https://github.com/user-attachments/assets/308c3d35-519f-488a-8e9e-702cd03a589c)
 
 The analysis confirmed previous findings about differences in tweeting behavior based on the device used. The timing and frequency of tweets from an iPhone showed distinct patterns that contribute to understanding the overall communication strategy employed during Trump's presidency. This project demonstrates the application of data analysis techniques in uncovering behavioral insights from social media data.
